@@ -71,7 +71,7 @@ I'm continuously learning and documenting my progress through:
 * Technical documentation
 
 ## 📫 Connect With Me
-- [LinkedIn](linkedin.com/in/sneha-k-b970032a3)
 
-* [LinkedIn](YOUR-LINKEDIN-URL)
-* [GitHub](https://github.com/YOUR-GITHUB-USERNAME)
+
+* [LinkedIn](linkedin.com/in/sneha-k-b970032a3)
+* [GitHub](https://github.com/SnehaK1016)
