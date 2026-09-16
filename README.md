@@ -73,5 +73,5 @@ I'm continuously learning and documenting my progress through:
 ## 📫 Connect With Me
 
 
-* [LinkedIn](linkedin.com/in/sneha-k-b970032a3)
+* [LinkedIn](https://www.linkedin.com/in/sneha-k-b970032a3/)
 * [GitHub](https://github.com/SnehaK1016)
