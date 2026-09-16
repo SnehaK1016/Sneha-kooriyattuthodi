@@ -1,1 +1,1 @@
-# Sneha-kooriyattuthodi
+# Snehakooriyattuthodi
